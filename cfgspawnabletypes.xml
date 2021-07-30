@@ -1,0 +1,117 @@
+</type>
+	<!-- -->
+	<type name="Sedan_02">
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Wheel" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_1_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_1_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_2_1" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Door_2_2" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Hood" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Sedan_02_Trunk" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="WaterBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SodaCan_Pipsi" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HuntingKnife" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Whetstone" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CanOpener" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PetrolLighter" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MediumGasCanister" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PortableGasStove" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PurificationTablets" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Pot" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="VitaminBottle" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LeatherSewingKit" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DuctTape" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ASVAL" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="Mag_VAL_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+			<item name="Mag_VAL_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+			<item name="Mag_VAL_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+			<item name="Mag_VAL_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+			<item name="Mag_VAL_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+			<item name="CannabisSeedsPack" chance="1.00" />
+        </attachments>
